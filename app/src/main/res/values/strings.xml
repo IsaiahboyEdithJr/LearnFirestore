@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LearnFirestore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reg_no_hint">Reg No...</string>
+    <string name="fname_hint">First Name...</string>
+    <string name="lname_hint">Last Name...</string>
+    <string name="email_hint">Email Address...</string>
+    <string name="avatar_desc">Avatar</string>
+    <string name="cpwd_hint">Confirm Password...</string>
+    <string name="pwd_hint">Password</string>
+    <string name="home">Home</string>
+    <string name="add_student">Add Student</string>
+    <string name="view_students">View Students</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_msg">Welcome Home</string>
+    <string name="upload">Upload</string>
+    <string name="developers">Developers</string>
+    <string name="developers_images">Developers Images</string>
+</resources>
